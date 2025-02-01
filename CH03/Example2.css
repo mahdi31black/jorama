@@ -1,0 +1,17 @@
+﻿h1{
+    color:blue;
+    background-color:rgb(200,178,120);
+}
+
+p{
+    font-size:28px;
+    color:#c8b278;
+    background-color:hwb(240 0% 0%);
+}
+
+h2{
+    color:#abc;     /* Equal to #aabbcc */
+    background-color:hsl(280,50%,20%);
+}
+
+
