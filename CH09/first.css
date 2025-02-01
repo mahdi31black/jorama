@@ -1,0 +1,12 @@
+
+@charset "UTF-8";
+@import "styles/second.css";
+
+
+p{
+    background-image: url("فارسی/تصاویر/img1.jpg");
+}
+/* p{
+    color:cyan;
+} */
+
